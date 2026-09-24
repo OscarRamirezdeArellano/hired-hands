@@ -1,0 +1,24 @@
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="OscarWays"
+description='''
+Hire mercenaries and workers paid in emeralds. The tool in their hand decides the job: sword or bow to fight, axe to fell trees, pickaxe to branch mine for the ore you ask for, hoe to farm, fishing rod to fish. They store what they gather in a chest, sleep at night and take orders in chat (English and Spanish), with optional AI conversation.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

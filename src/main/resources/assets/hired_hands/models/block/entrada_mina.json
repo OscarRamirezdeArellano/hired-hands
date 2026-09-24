@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "hired_hands:block/entrada_mina",
+    "end": "minecraft:block/oak_planks"
+  }
+}

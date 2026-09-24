@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#hired_hands:aparece_mercenario",
+  "spawners": {
+    "type": "hired_hands:mercenario",
+    "weight": 2,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

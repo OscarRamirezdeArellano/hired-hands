@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:stick",
+    "minecraft:gold_nugget",
+    "minecraft:red_dye"
+  ],
+  "result": {
+    "id": "hired_hands:vara_capataz"
+  }
+}

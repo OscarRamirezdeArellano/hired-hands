@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bone",
+    "minecraft:bone",
+    "minecraft:leather",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "hired_hands:cuerno_mando"
+  }
+}
