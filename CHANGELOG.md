@@ -9,6 +9,7 @@
 - Chat: replies now appear after your message, and questions ("how much do you carry?") are no longer taken as orders.
 - Foreman's Rod: the recipe loads again, and the area outline is drawn above crops with posts at the corners.
 - The handbook is now called "Patron's Handbook" everywhere.
+- Mod icon in the mods list, with links to the [wiki](https://hired-hands-mod.vercel.app) and the issue tracker.
 
 **ES**
 - El modo Trabajando ahora se ve como tal: "Leñador · Trabajando: Talando" en vez de "Esperando" hasta la primera tarea.
@@ -16,6 +17,7 @@
 - Carry On ya no puede levantar a los contratados, así que agachado + clic derecho siempre abre su pantalla.
 - Chat: la respuesta aparece después de tu mensaje, y las preguntas ("¿cuánto llevas?") ya no se toman como órdenes.
 - Vara de capataz: la receta vuelve a cargar, y el borde de la zona se dibuja por encima de los cultivos con postes en las esquinas.
+- Ícono del mod en la lista de mods, con enlaces a la [wiki](https://hired-hands-mod.vercel.app/es/) y a la página de reportes.
 
 ## 0.7.0
 
