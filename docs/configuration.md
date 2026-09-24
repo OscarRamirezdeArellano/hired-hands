@@ -27,7 +27,9 @@ Created on first server start. Changes apply without a restart.
 | `probabilidad_herido` | 10 | % chance of coming back hurt |
 | `desgaste_pico` | 20 | Pickaxe uses per trip (never breaks it) |
 
-## `config/hired_hands-common.toml` (AI, server only)
+## AI: `config/hired_hands-common.toml`
+
+Only the **server** needs this file, and it is never sent to players.
 
 ```toml
 [ia]
@@ -37,8 +39,8 @@ Created on first server start. Changes apply without a restart.
     llamadas_por_minuto = 6
 ```
 
-The key can also come from the `ANTHROPIC_API_KEY` environment variable. Only the server needs this
-file, and it is never sent to players.
+The key can also come from the `ANTHROPIC_API_KEY` environment variable. Without a key, greetings and
+simple orders work exactly the same.
 
 ## Datapacks
 

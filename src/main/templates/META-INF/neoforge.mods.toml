@@ -1,12 +1,15 @@
 license="${mod_license}"
+issueTrackerURL="https://github.com/OscarRamirezdeArellano/hired-hands/issues"
 
 [[mods]]
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
 authors="OscarWays"
+iconFile="icon.png"
+displayURL="https://hired-hands-mod.vercel.app"
 description='''
-Hire mercenaries and workers paid in emeralds. The tool in their hand decides the job: sword or bow to fight, axe to fell trees, pickaxe to branch mine for the ore you ask for, hoe to farm, fishing rod to fish. They store what they gather in a chest, sleep at night and take orders in chat (English and Spanish), with optional AI conversation.
+Hire mercenaries and workers paid in emeralds. The tool in their hand decides the job: sword or bow to fight, axe to fell trees, pickaxe to branch mine for the ore you ask for, hoe to farm, fishing rod to fish, shears to ranch, a bundle to haul and a bowl to cook. They store what they gather in a chest, level up, sleep at night and take orders in chat (English and Spanish), with optional AI conversation.
 '''
 
 [[dependencies.${mod_id}]]

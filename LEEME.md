@@ -251,11 +251,21 @@ modificables con un datapack.
 - **Carry On**: los contratados están en su lista negra (`data/carryon/tags/entity_type/entity_blacklist.json`),
   así que agachado + clic siempre abre su pantalla en vez de levantarlos.
 
+## Wiki
+
+Sitio en https://hired-hands-mod.vercel.app (VitePress, en `docs/`, inglés y español). Para cambiar el contenido se edita
+`docs/generar.py` y se regenera; para publicar:
+
+```
+cd docs
+python generar.py
+npx vercel deploy --prod --scope oscar-ramirezs-projects-0f50f9c5
+```
+
 ## Publicar
 
 En `publish/`: el jar, `changelog-<versión>.md`, `curseforge-description.md` (inglés y español),
-`screenshots/` (capturas para CurseForge y la wiki; `_borradores/` son descartes) y `wiki/`
-(páginas para la wiki de GitHub). Las imágenes de la descripción y la wiki apuntan a
+`screenshots/` (capturas para CurseForge y la wiki; `_borradores/` son descartes). Las imágenes de la descripción y la wiki apuntan a
 `github.com/OscarRamirezdeArellano/hired-hands`: funcionan cuando exista ese repositorio.
 
 Las capturas se sacaron en el mundo `run-cliente/saves/Capturas` (copia de New World) con el

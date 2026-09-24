@@ -8,6 +8,8 @@ fisher, rancher, hauler, cook) and bring the results to a chest. They leave when
 
 ![Hired Hands](publish/screenshots/01-hired-hands.png)
 
+**📖 Wiki: [hired-hands-mod.vercel.app](https://hired-hands-mod.vercel.app)** ([español](https://hired-hands-mod.vercel.app/es/))
+
 Available in English and Spanish. Each player sees messages, work states and the in-game handbook in
 their own language. Chat orders are understood in both.
 

@@ -1,4 +1,4 @@
-# Orders and Modes
+# Orders and modes
 
 ## Clicking a hired hand
 
@@ -28,7 +28,7 @@ you attack. It heals outside combat.
 
 ## Management screen
 
-![Management screen](https://raw.githubusercontent.com/OscarRamirezdeArellano/hired-hands/main/publish/screenshots/11-management-screen-closeup.png)
+![Management screen](/img/11-management-screen-closeup.png)
 
 - 3D preview that follows the mouse.
 - 6 equipment slots: drag armor, weapons and tools in and out.
@@ -38,19 +38,19 @@ you attack. It heals outside combat.
 
 ## Groups and the Command Horn
 
-- **Group** button: cycles none → 1 → 2 → 3 → 4.
-- Chat: `all, follow me`, `group 2, stay` (simple orders only).
+- The **Group** button cycles none → 1 → 2 → 3 → 4.
+- In chat: `all, follow me`, `group 2, stay` (simple orders only).
 - **Command Horn** (2 bones + leather + gold ingot): right-click and every hired hand within 48 blocks
   follows you; sneak-click and they wait where they are.
 
-![Command Horn recipe](https://raw.githubusercontent.com/OscarRamirezdeArellano/hired-hands/main/publish/screenshots/42-recipe-horn.png)
+![Command Horn recipe](/img/42-recipe-horn.png)
 
 ## Levels
 
 Levels go from 1 to 10. Experience comes from work (+1 per block worked, +2 per fish, +10 per
 expedition) and combat (+5 per kill).
 
-Each level: **+2 health**, **+0.5 damage**, **4 % faster work**. Miners find one more vein per
-expedition every 3 levels.
+Each level gives **+2 health**, **+0.5 damage** and **4 % faster work**. Miners find one more vein
+per expedition every 3 levels.
 
-![Combat](https://raw.githubusercontent.com/OscarRamirezdeArellano/hired-hands/main/publish/screenshots/08-combat.png)
+![Combat](/img/08-combat.webp)

@@ -1,6 +1,6 @@
 # Chat and AI
 
-![Chat](https://raw.githubusercontent.com/OscarRamirezdeArellano/hired-hands/main/publish/screenshots/12-chat.png)
+![Chat](/img/12-chat.webp)
 
 ## Greetings
 
@@ -35,6 +35,8 @@ Anything else (long sentences, negations, questions, small talk) can be sent to 
 understands the order, carries it out with the same actions as the simple orders and replies in
 character. It remembers the last 4 exchanges for 10 minutes and answers in the language you use.
 
-It is **off until the server owner adds an Anthropic API key** (see [[Configuration]]). The key stays
-on the server. The default model, Claude Haiku 4.5, is the cheapest, and each player can send up to 6
-AI messages per minute.
+::: info Off by default
+The AI only works if the server owner adds an Anthropic API key (see
+[Configuration](./configuration)). The key stays on the server. The default model, Claude Haiku 4.5,
+is the cheapest, and each player can send up to 6 AI messages per minute.
+:::

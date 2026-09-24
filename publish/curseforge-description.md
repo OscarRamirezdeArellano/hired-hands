@@ -4,6 +4,8 @@
 
 ![Hired Hands](https://raw.githubusercontent.com/OscarRamirezdeArellano/hired-hands/main/publish/screenshots/01-hired-hands.png)
 
+📖 **Full guide / Guía completa: [hired-hands-mod.vercel.app](https://hired-hands-mod.vercel.app)**
+
 🇪🇸 *Versión en español más abajo.*
 
 ---
@@ -61,6 +63,8 @@ Type their name in chat: `Wren, what are you doing?`, `Garrick, find 10 iron`, `
 - No other mods required
 - Install on **server and clients**
 
+📖 **Everything else (every trade, chat orders, configuration, FAQ) is in the [wiki](https://hired-hands-mod.vercel.app).**
+
 ---
 
 ## 🇪🇸 Español
@@ -109,6 +113,8 @@ Escribe su nombre en el chat: `Wren, ¿qué haces?`, `Garrick, busca 10 de hierr
 - Minecraft **26.2** con **NeoForge**
 - No necesita otros mods
 - Se instala en **servidor y clientes**
+
+📖 **Todo lo demás (cada oficio, órdenes por chat, configuración, preguntas frecuentes) está en la [wiki en español](https://hired-hands-mod.vercel.app/es/).**
 
 ---
 

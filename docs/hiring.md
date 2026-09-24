@@ -1,4 +1,4 @@
-# Hiring and Contracts
+# Hiring and contracts
 
 ## Getting one
 
@@ -8,15 +8,18 @@
 | Mercenary Contract | Paper + iron sword + 5 emeralds, shapeless. Use it on the ground: a mercenary hired by you appears. |
 | Mercenary Spawn Egg | Creative only. Spawns a free mercenary. |
 
-![Contract recipe](https://raw.githubusercontent.com/OscarRamirezdeArellano/hired-hands/main/publish/screenshots/40-recipe-contract.png)
+![Contract recipe](/img/40-recipe-contract.png)
 
-The first time you hire someone you also receive the **Patron's Handbook**.
+The first time you hire someone you also receive the **Patron's Handbook**, a guide to all of this
+inside the game.
 
-## Contract
+Every item is in the **Hired Hands** creative tab.
+
+## The contract
 
 - Each emerald you give adds **1 day** (sneak to pay the whole stack).
 - Days are world days and keep running while nobody is online.
-- Less than a day left: it warns you in chat.
+- With less than a day left, it warns you in chat.
 - When it ends it becomes free again, keeps its gear, and anyone can hire it.
 
 ## Death

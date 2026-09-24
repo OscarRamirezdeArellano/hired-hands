@@ -4,9 +4,9 @@ The miner works in one of two ways, depending on whether there is a **Mine Entra
 
 ## Real mine
 
-![Miner cutaway](https://raw.githubusercontent.com/OscarRamirezdeArellano/hired-hands/main/publish/screenshots/04-miner-cutaway.png)
+![Miner cutaway](/img/04-miner-cutaway.webp)
 
-*(Cutaway: the rock above the mine was removed for the screenshot.)*
+*Cutaway: the rock above the mine was removed for the screenshot.*
 
 It digs toward the direction **you** were facing when you set it to work.
 
@@ -24,14 +24,14 @@ It digs toward the direction **you** were facing when you set it to work.
    | Coal | Y 96 |
 
    It only goes down: if the layer is above its post, it mines at the post's height.
-3. **Branch mining**: a 64-block main tunnel with 16-block side branches every 3 blocks. It mines
-   every vein it sees (target first) and skips coal and copper while looking for something else.
-4. **Obstacles**: seals lava and water, floors over caves, replaces sand and gravel ceilings, fills
+3. **Branch mining**: a 64-block main tunnel with 16-block side branches every 3 blocks. It mines every
+   vein it sees (the target first) and skips coal and copper while looking for something else.
+4. **Obstacles**: it seals lava and water, floors over caves, replaces sand and gravel ceilings, fills
    holes left by ores in the floor and clears the way back if it gets blocked. Unbreakable blocks
    (bedrock, spawners) make it skip that branch.
-5. **Stone**: keeps 64 for patching and leaves the rest.
+5. **Stone**: it keeps 64 for patching and leaves the rest.
 6. **Mine chest**: give it a chest and it places it at the bottom of the staircase.
-7. **Done**: it tells you when it reached its target, stores the ore and stops.
+7. **Done**: it tells you when it reaches its target, stores the ore and stops.
 
 ## Expeditions
 
@@ -43,6 +43,6 @@ minutes and comes back with ores. The world is not touched.
   diamonds with a stone pickaxe).
 - Higher levels find more veins.
 - It may come back hurt (it never dies there) and won't go back in below 70 % health.
-- Clicking it while it's inside makes it wait at its post when it comes out.
+- Click it while it's inside and it will wait at its post when it comes out.
 
-![Mine Entrance recipe](https://raw.githubusercontent.com/OscarRamirezdeArellano/hired-hands/main/publish/screenshots/44-recipe-mine-entrance.png)
+![Mine Entrance recipe](/img/44-recipe-mine-entrance.png)

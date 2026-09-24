@@ -1,0 +1,25 @@
+:root {
+  --vp-c-brand-1: #2e8b57;
+  --vp-c-brand-2: #3aa76a;
+  --vp-c-brand-3: #257046;
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #c8913a 20%, #2e8b57);
+  --vp-home-hero-image-background-image: radial-gradient(circle, #2e8b5733 40%, transparent 70%);
+  --vp-home-hero-image-filter: blur(40px);
+}
+
+.vp-doc img {
+  border-radius: 6px;
+  image-rendering: auto;
+}
+
+/* Capturas de recetas y del manual: pixel art sin suavizar. */
+.vp-doc img[src$='.png'] {
+  image-rendering: pixelated;
+}
+
+.vp-doc .libros p {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 12px;
+}
